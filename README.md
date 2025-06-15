@@ -1,4 +1,5 @@
 📊 Présentation du Projet : Dashboard des Arrêts de Travail
+
 🚀 Description du Projet
 Ce projet est un tableau de bord analytique conçu pour suivre et analyser les données relatives aux arrêts de travail dans une organisation. Il offre une visualisation claire et interactive des indicateurs clés, permettant une meilleure gestion des absences et une prise de décision éclairée.
 
